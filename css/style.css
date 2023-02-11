@@ -340,9 +340,9 @@ ul.costomer li a span {color: #5502bb;}
 }
 
 .text-bg p {
-     color: #fff;
+     color: #ff1010;
      font-weight: 500;
-     font-size: 17px;
+     font-size: 27px;
      line-height: 28px;
      padding: 40px 0;
 }
@@ -730,7 +730,7 @@ $grey: #999;
 }
 
 .cont a:hover {
-     background-color: #fd882f;
+     background-color: #fc3434;
      transition: ease-in all 0.5s;
      color: #fff;
 }
@@ -743,7 +743,7 @@ $grey: #999;
 
 .footer {
      padding: 20px 0px;
-     background: #fa7528;
+     background: #ff1104;
 }
 
 .footer p {
